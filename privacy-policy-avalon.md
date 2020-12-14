@@ -12,5 +12,6 @@ Our third-party integrations are listed below. Each of our integration partners 
 * Vivox voice and text comms (by Unity Technologies): https://unity.com/products/vivox
 * Google Analytics for Firebase (by Google): https://firebase.google.com/policies/analytics/
 * Firebase Crashlytics (by Google): https://firebase.google.com/terms/crashlytics/
+
 Your continued use of our app will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
 This policy is effective as of 14 December 2020.
